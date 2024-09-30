@@ -39,6 +39,7 @@ elif PythonAnywhere is True:
 
     ALLOWED_HOSTS = [
         'shawnn.pythonanywhere.com', 
+
     ]
     
 
