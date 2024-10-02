@@ -35,7 +35,7 @@ if PythonAnywhere is False:
     ]
     
 elif PythonAnywhere is True:
-    DEBUG = True
+    DEBUG = False
 
     ALLOWED_HOSTS = ['shawnn.pythonanywhere.com']
     
